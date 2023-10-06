@@ -1,0 +1,11 @@
+c:\Users\MBARK\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.deps.json
+c:\Users\MBARK\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.dll
+c:\Users\MBARK\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.pdb
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.AssemblyInfoInputs.cache
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.AssemblyInfo.cs
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.csproj.CoreCompileInputs.cache
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.dll
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\refint\GenR.dll
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.pdb
+c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\ref\GenR.dll

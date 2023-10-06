@@ -8,26 +8,27 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MBARKT3STO_0\\.nuget\\packages\\": {}
+    "C:\\Users\\MBARK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MBARKT3STO_0\\source\\repos\\GenR\\GenR\\GenR.csproj",
+      "projectUniqueName": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
       "projectName": "GenR",
-      "projectPath": "C:\\Users\\MBARKT3STO_0\\source\\repos\\GenR\\GenR\\GenR.csproj",
-      "packagesPath": "C:\\Users\\MBARKT3STO_0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MBARKT3STO_0\\source\\repos\\GenR\\GenR\\obj\\",
+      "projectPath": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
+      "packagesPath": "C:\\Users\\MBARK\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MBARKT3STO_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MBARK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

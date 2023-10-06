@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Old School using
+
+using GenR.Generators;
+using GenR.Interfaces;
+
+var generator = new RandomCodeGenerator(10, GenR.Enums.CodeCharacterType.LettersAndNumbers);
+
+var code = generator.GenerateNext();
+
+Console.WriteLine("The generated code is: " + code);
+
+Console.ReadLine();
