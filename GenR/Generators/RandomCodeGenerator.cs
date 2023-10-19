@@ -112,19 +112,19 @@ public class RandomCodeGenerator : ICodeGenerator
 
 		for (var i = 0; i < length; i++)
 		{
-			var nextIndex = random.Next(letterIndex, symbolIndex);
+			var nextIndex = random.Next(letterIndex, symbolIndex+1);
 
 			if (nextIndex == letterIndex)
 			{
-				code += letters[random.Next(letters.Length)];
+				code += letters[random.Next(letters.Length-1)];
 			}
 			else if (nextIndex == numberIndex)
 			{
-				code += numbers[random.Next(numbers.Length)];
+				code += numbers[random.Next(numbers.Length-1)];
 			}
 			else
 			{
-				code += symbols[random.Next(symbols.Length)];
+				code += symbols[random.Next(symbols.Length-1)];
 			}
 		}
 
