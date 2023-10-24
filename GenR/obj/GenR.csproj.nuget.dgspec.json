@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj": {}
+    "C:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj": {
+    "C:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
+        "projectUniqueName": "C:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
         "projectName": "GenR",
-        "projectPath": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
+        "projectPath": "C:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\GenR.csproj",
         "packagesPath": "C:\\Users\\MBARK\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\obj\\",
+        "outputPath": "C:\\Users\\MBARK\\source\\repos\\GenR\\GenR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MBARK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
