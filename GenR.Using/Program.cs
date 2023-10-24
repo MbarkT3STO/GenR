@@ -3,7 +3,7 @@
 using GenR.Generators;
 using GenR.Interfaces;
 
-var generator = new RandomCodeGenerator(10, GenR.Enums.CodeCharacterType.LettersAndNumbers);
+var generator = new RandomCodeGenerator(10, GenR.Enums.CodeCharacterType.Mixed);
 
 var code = generator.GenerateNext();
 

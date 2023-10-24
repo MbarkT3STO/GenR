@@ -9,3 +9,14 @@ c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.dll
 c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\refint\GenR.dll
 c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.pdb
 c:\Users\MBARK\source\repos\GenR\GenR\obj\Debug\net7.0\ref\GenR.dll
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.deps.json
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.dll
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\bin\Debug\net7.0\GenR.pdb
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.AssemblyInfoInputs.cache
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.AssemblyInfo.cs
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.csproj.CoreCompileInputs.cache
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.dll
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\refint\GenR.dll
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\GenR.pdb
+C:\Users\MBARK.AzureAD\source\repos\GenR\GenR\obj\Debug\net7.0\ref\GenR.dll
